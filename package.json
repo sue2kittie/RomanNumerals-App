@@ -4,7 +4,7 @@
   "description": "convert numbers to roman numerals",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/.bin/mocha --reporter spec"
   },
   "author": "Sura Karnawi",
   "license": "ISC",
@@ -15,7 +15,9 @@
   "devDependencies": {
     "browser-sync": "^2.26.7",
     "gulp": "^3.9.1",
-    "gulp-sass": "^3.1.0"
+    "gulp-sass": "^3.1.0",
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
   },
   "dependencies": {
     "bootstrap": "^4.3.1"

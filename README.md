@@ -12,6 +12,8 @@
 * `gulp` on localhost:3002
 *  gulp mocha, gulp watch-mocha
 
+## testing
+* `npm test`
 
 ### Contribution guidelines ###
 
