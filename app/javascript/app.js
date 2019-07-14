@@ -23,7 +23,7 @@ function convert() {
     document.getElementById('result').innerHTML = result;
 
   } else {
-    alert('Please enter a number from 0-3999');
+    document.getElementById('result').innerHTML = 'Sorry no results';
   }
 
 

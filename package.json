@@ -8,6 +8,10 @@
   },
   "author": "Sura Karnawi",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sue2kittie/RomanNumerals-App.git"
+  },
   "devDependencies": {
     "browser-sync": "^2.26.7",
     "gulp": "^3.9.1",

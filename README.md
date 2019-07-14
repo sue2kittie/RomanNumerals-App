@@ -1,11 +1,11 @@
-# README - Roman Numerals#
+# README - Roman Numerals
 
 ### This is Numbers to Roman Numerals app ###
 
 
 ### How do I build the app? ###
 * `npm install`
-*  `npm install -g browser-sync`
+* `npm install -g browser-sync`
 
 
 ## running
