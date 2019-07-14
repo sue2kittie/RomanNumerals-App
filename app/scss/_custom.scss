@@ -1,0 +1,45 @@
+/*  Name: Custome styles for Roman Numerals app
+	Author: Sura Karnawi
+*/
+
+
+input {
+	width: 50%;
+}
+
+.btn {
+	background: black;
+	color: white;
+	&:hover {
+		color: white;
+	}
+}
+
+input:valid {
+	color: green;
+}
+
+input:invalid {
+	color: red;
+}
+
+.bg-sun {
+	background: -webkit-linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
+	background: -o-linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
+	background: -moz-linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
+	background: linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
+}
+
+h1 {
+	font-size: 27px;
+	margin-top: 40px;
+	font-family: monospace;
+}
+
+body {
+	@extend .bg-sun;
+}
+
+#numbers {
+	margin: 20px;
+}
