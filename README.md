@@ -15,6 +15,7 @@
 
 ### Contribution guidelines ###
 
+* Using Prettier linting
 * Writing tests
 * Sura K is on her journey to learn 
 
