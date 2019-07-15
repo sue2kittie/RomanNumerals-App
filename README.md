@@ -8,7 +8,7 @@
 * `npm install -g browser-sync`
 
 ## Running
-* `gulp` on localhost:3002
+* `gulp` 
 
 ## Testing
 * `npm test`
